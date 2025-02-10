@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	background-color: #fff;
+}
+
+/* Stil für das gesamte Diagramm */
+.ui-chart {
+    background-color: #fff; /* Hintergrundfarbe des Diagramms */
+    border: 3px solid #000; /* Rahmen des Diagramms */
+    padding: 10px; /* Innenabstand des Diagramms */
+}
+
+/* Stil für die Datenpunkte */
+.ui-chart .ui-linechart-point {
+    background-color: #fff; /* Farbe der Datenpunkte */
+    border-radius: 100%; /* Runde Datenpunkte */
+}
+
+
+
